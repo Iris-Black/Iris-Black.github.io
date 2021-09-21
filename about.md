@@ -2,14 +2,18 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+### General Info
 
-### More Information
+Student in ACI, studying in the IB Programme. This website is my personal portfolio, where I'll post my thoughts.
 
-A place to include any other types of information that you'd like to include about yourself.
+### More Information, likes and hobbies
+
+I love arts and music. I'm also interested in CGI. I like reading books as well, so send me your recommendations!
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+# Email
+[ecakar@my.aci.k12.tr](mailto:ecakar@my.aci.k12.tr)
