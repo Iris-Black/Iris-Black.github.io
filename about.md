@@ -13,7 +13,7 @@ Student in ACI, studying in the IB Programme. This website is my personal portfo
 
 I love arts and music. I'm also interested in CGI. I like reading books as well, so send me your recommendations!
 
-![Alberto Giacometti, The Artist's Mother, 1950 ]({{site.baseurl}}/https://i.pinimg.com/originals/dc/10/92/dc1092e48261648a43896bdeff9e081f.jpg)
+![Alberto Giacometti]({{site.baseurl}}/https://i.ibb.co/Kx1ytQ0/giacometti2.jpg)
 
 ### Contact me
 Email:
