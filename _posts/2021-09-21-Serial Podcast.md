@@ -1,8 +1,6 @@
 ---
 published: true
 ---
-## Main Topic
-
 This is an analysis for the 'Serial Podcast', a podcast talking about the murder of Hae Min Lee, a high school student, in the 90's.
 
 ### Important links
