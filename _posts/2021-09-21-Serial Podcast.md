@@ -1,13 +1,4 @@
 ---
 published: true
 ---
-## My comments on the devices used:
-|**Technique**|**Examples**|**Individual Explanations**|**General Explanation**|
-|---|---|---|---|
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vTzgKcpEEK-SByCTaGCuMnOCdc6EHj-1kWdOJuyp5hzMVqVxeI98P-7naFF2HMnivfDvyFbENlb8c1G/pub?embedded=true"></iframe>
