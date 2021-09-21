@@ -13,7 +13,7 @@ Student in ACI, studying in the IB Programme. This website is my personal portfo
 
 I love arts and music. I'm also interested in CGI. I like reading books as well, so send me your recommendations!
 
-![Alberto Giacometti]({{site.baseurl}}/https://i.ibb.co/Kx1ytQ0/giacometti2.jpg)
+[![One of Alberto Giacometti's Works](https://i.ibb.co/Kx1ytQ0/giacometti2.jpg)](https://digitalocean.com)
 
 ### Contact me
 Email:
