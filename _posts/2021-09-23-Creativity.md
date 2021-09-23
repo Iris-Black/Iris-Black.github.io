@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## What exactly is creativity?
 In IB's opinion, it is being able to infer hidden meanings in bodies of work.
