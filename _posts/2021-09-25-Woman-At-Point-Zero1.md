@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Woman At Point Zero Chapter 1
 
