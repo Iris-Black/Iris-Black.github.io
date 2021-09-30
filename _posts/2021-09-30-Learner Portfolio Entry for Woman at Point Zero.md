@@ -13,5 +13,7 @@ published: true
 
 > What sort of woman was she? Since she had rejected me, did that mean she was a better person than me? But then, she had also refused to send an appeal to the President asking him to protect her from the gallows. Could that signify that she was better than the Head of State?
 
+> Compared to her, I was nothing but a small insect crawling upon the and amidst millions of other insects.
+
 
 
