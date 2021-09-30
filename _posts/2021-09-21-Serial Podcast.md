@@ -11,4 +11,4 @@ This is an analysis for the 'Serial Podcast', a podcast talking about the murder
 
 ### Embed for Google Doc - For reading
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vTzgKcpEEK-SByCTaGCuMnOCdc6EHj-1kWdOJuyp5hzMVqVxeI98P-7naFF2HMnivfDvyFbENlb8c1G/pub?embedded=true" height=1200 width=1200 style="border:none"></iframe>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vTzgKcpEEK-SByCTaGCuMnOCdc6EHj-1kWdOJuyp5hzMVqVxeI98P-7naFF2HMnivfDvyFbENlb8c1G/pub?embedded=true" height=1200 width=600 style="border:none"></iframe>
