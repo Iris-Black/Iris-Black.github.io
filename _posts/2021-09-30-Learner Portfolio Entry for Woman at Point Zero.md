@@ -15,5 +15,16 @@ published: true
 
 > Compared to her, I was nothing but a small insect crawling upon the and amidst millions of other insects.
 
+### Saadawi's Attitude Towards The Warden & My Global Issue
+
+-The fact that the warden is closer to Firdaus ~ Makes Saadawi go crazy
+-She tries to falsify the warden's claims by comparing their societal status ~ inferiority complex
+
+### Insights That Are Already Offered
+
+-The state of women in Egyptian, and thus backwards-minded, societies.
+-The injustice in the justice system
+
+
 
 
