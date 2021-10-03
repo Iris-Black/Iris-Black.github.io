@@ -25,3 +25,7 @@ published: true
 
 - The state of women in Egyptian, and thus backwards-minded, societies.
 - The injustice in the justice system
+
+### Inferiority Complex in Fine Arts
+
+![]({{site.baseurl}}/https://render.fineartamerica.com/images/images-profile-flow/400/images/artworkimages/mediumlarge/2/inferiority-complex-florentinus-joseph.jpg)
