@@ -22,10 +22,10 @@ This global issue is shown with this shot through showing her suppressed emotion
 [![The 2nd Screenshot](https://i.ibb.co/2gmWKtn/Screen-Shot-2021-10-04-at-09-35-35.png)](https://ibb.co)
 
 ### How do I feel 
-This screenshot is the perfect representation of how I was feeling whilst listening to the nonsense some people were saying in the documentary, and I like how it shows she feels the same way.
+This shot is a calm one, one that is a very stark contrast with the story being told when it is shown.
 
 ### What is the director communicating?
-I believe what she's trying to communicate is how Saba really feels about forgiving her father and her uncle. The only reason she's forgiving them is societal pressure, not any other. We understand this by the inclusion of the part where she's rolling her eyes, even when she's not talking.
+What I understood from seeing this shot 
 
 ### Global Issue
 - Communal pressure, communal backwards-minded thinking
