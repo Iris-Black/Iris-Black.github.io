@@ -16,6 +16,7 @@ I believe what she's trying to communicate is how Saba really feels about forgiv
 - Communal pressure, communal backwards-minded thinking
 
 ### How does the shot illustrate the Global Issue?
+This global issue is shown with this shot through showing her suppressed emotions, through showing how she feels and highlighting the contrast between what she's saying and what she's feeling.
 
 ## 2nd Screenshot
 [![The 2nd Screenshot](https://i.ibb.co/2gmWKtn/Screen-Shot-2021-10-04-at-09-35-35.png)](https://ibb.co)
