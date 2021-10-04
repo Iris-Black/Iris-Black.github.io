@@ -28,4 +28,4 @@ published: true
 
 ### Inferiority Complex in Fine Arts
 
-![]({{site.baseurl}}/https://render.fineartamerica.com/images/images-profile-flow/400/images/artworkimages/mediumlarge/2/inferiority-complex-florentinus-joseph.jpg)
+[![Inferiority Complex](https://render.fineartamerica.com/images/images-profile-flow/400/images/artworkimages/mediumlarge/2/inferiority-complex-florentinus-joseph.jpg)](https://render.fineartamerica.com)
