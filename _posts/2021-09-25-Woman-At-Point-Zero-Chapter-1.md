@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-#### 25th of September 2021
+#### 25th of September, 2021
 
 ### General Thoughts
 
