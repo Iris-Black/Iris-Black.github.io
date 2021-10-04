@@ -7,4 +7,4 @@ published: false
 [![The 1st Screenshot](https://i.ibb.co/Zmwmh57/Screen-Shot-2021-10-04-at-09-40-35.png)](https://ibb.co)
 
 ### 2nd Screenshot
-[![The 2nd Screenshot](https://i.ibb.co/Zmwmh57/Screen-Shot-2021-10-04-at-09-40-35.png)](https://ibb.co)
+[![The 2nd Screenshot](https://i.ibb.co/2gmWKtn/Screen-Shot-2021-10-04-at-09-35-35.png)](https://ibb.co)
