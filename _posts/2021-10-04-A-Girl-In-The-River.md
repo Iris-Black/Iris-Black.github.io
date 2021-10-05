@@ -34,5 +34,10 @@ I believe the director is trying to say here that even when there's something as
 It could be that this is, perhaps, a metaphor for the bigger picture, and how people are turning a blind eye to what has been happening in Pakistan for decades.
 
 ### Documentary Techniques:
-- Indirect Interview
+- Cinema Verite
 - Cross-cuts
+
+#### Cinema Verite
+The scene where the first lawyer of Saba is talking with the neighborhood elders is a great example of cinema verite being used to tell the global issue of communal pressure. Through the recording of this conversation that these people have between them it becomes clear how the elders are pressuring Saba to forgive her father and her uncle, as it is literally being told by the elders themselves.
+
+#### Cross-cuts
