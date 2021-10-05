@@ -32,3 +32,7 @@ I believe the director is trying to say here that even when there's something as
 
 ### How does the shot illustrate the Global Issue?
 It could be that this is, perhaps, a metaphor for the bigger picture, and how people are turning a blind eye to what has been happening in Pakistan for decades.
+
+### Documentary Techniques:
+- Indirect Interview
+- Cross-cuts
