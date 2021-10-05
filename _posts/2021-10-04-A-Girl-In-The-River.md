@@ -42,3 +42,6 @@ The scene where the first lawyer of Saba is talking with the neighborhood elders
 
 #### Cross-cuts
 The cross-cuts being used where the story of Saba being thrown in the river explained help amplify the effect of what has been happening then; moreover, the calm shots added between the running in the woods also help tell that the world is going on normally outside of their problems, that people do not care or know the suffering that Saba was experiencing back then. Another thing that helps this narrative are the shots of normal landscapes seen between the POV's of Saba escaping.
+
+#### The Documentary 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U7a-nOOXdtA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
