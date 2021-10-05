@@ -25,11 +25,10 @@ This global issue is shown with this shot through showing her suppressed emotion
 This shot is a calm one, one that is a very stark contrast with the story being told when it is shown.
 
 ### What is the director communicating?
-What I understood from seeing this shot 
+I believe the director is trying to say here that even when there's something as violent as the story being told here going on, Saba's story; the world still rolls, it continues as it would. Even the landscapes where those events are happening can be much calmer.
 
 ### Global Issue
-- Communal pressure, communal backwards-minded thinking
+- Ignorance, turning a blind eye
 
 ### How does the shot illustrate the Global Issue?
-This global issue is shown with this shot through showing her suppressed emotions, through showing how she feels and highlighting the contrast between what she's saying and what she's feeling.
-
+It could be that this is, perhaps, a metaphor for the bigger picture, and how people are turning a blind eye to what has been happening in Pakistan for decades.
