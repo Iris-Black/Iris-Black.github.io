@@ -11,3 +11,8 @@ published: false
 - Some of my points remained unproven
 - I shouldn't have used figurative language in a formal essay
 - The starting and the ending point of my paragraphs needed to be more clear
+- I should have used PEEL more
+- My messages should have been clearer
+- I needed to be more specific
+
+### Strengths
