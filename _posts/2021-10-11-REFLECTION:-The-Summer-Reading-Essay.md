@@ -16,3 +16,9 @@ published: false
 - I needed to be more specific
 
 ### Strengths
+- Some of my points were good!
+- I had nice ideas
+- The proofs I had were good - they just needed to come earlier
+- Some of my words were at the correct places - meaning they were approved
+- My interpretation was good as well! I just needed to heed PEEL (Introduce ideas before explaining them)
+- My conclusion got a tick
