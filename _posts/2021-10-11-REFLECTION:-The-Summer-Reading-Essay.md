@@ -1,14 +1,14 @@
 ---
-published: false
+published: true
 ---
 ## 11th of October, 2021
 
 ### Weaknesses
 - My topic setences were weak and were without good arguments (Criterion B)
 - I was not focused - my thesis needs to be shorter (Criterion C)
-- I needed to put more examples for some of my points ()
-- I may have repeated myself unnecessarily(wasn't written) ()
-- Some of my points remained unproven ()
+- I needed to put more examples for some of my points 
+- I may have repeated myself unnecessarily(wasn't written) 
+- Some of my points remained unproven 
 - I shouldn't have used figurative language in a formal essay (Criterion D)
 - The starting and the ending point of my paragraphs needed to be more clear
 - I should have used PEEL more
@@ -33,4 +33,3 @@ published: false
 <a href="https://ibb.co/tMMgqz8"><img src="https://i.ibb.co/PZZKcMw/IMG-20211011-085612.jpg" alt="IMG-20211011-085612" border="0"></a>
 <a href="https://ibb.co/mBRh0ck"><img src="https://i.ibb.co/VNLMxqR/IMG-20211011-090919.jpg" alt="IMG-20211011-090919" border="0"></a>
 <a href="https://ibb.co/VN4c6fT"><img src="https://i.ibb.co/mBWVpf4/IMG-20211011-091029.jpg" alt="IMG-20211011-091029" border="0"></a>
-
