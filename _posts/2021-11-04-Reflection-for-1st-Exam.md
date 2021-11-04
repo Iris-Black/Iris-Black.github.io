@@ -18,3 +18,7 @@ For knowledge, I think I have landed somewhere between 7 and 8. Ms. Taylor may n
 - I have not much description, but a lot of interpretation. I also have some analysis, along with some good ideas.
 
 Out of 6, I had analysis 1 out of 6 times..? Maybe 2..?
+
+- I could've analyzed the consequences and reasons of why this has been accepted in the community of Pakistan.
+
+- I could've analyzed why even some who don't value said values still can't act.
