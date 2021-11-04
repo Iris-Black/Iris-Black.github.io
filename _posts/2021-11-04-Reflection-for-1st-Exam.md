@@ -10,3 +10,4 @@ published: false
 - I had already talked about how long this has been going on, so I should've written down another point for "She is just my wife."
 
 For knowledge, I think I have landed somewhere between 7 and 8. Ms. Taylor may not.
+
