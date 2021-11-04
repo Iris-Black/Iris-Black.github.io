@@ -16,3 +16,5 @@ For knowledge, I think I have landed somewhere between 7 and 8. Ms. Taylor may n
 #### Criterion B
 
 - I have not much description, but a lot of interpretation. I also have some analysis, along with some good ideas.
+
+Out of 6, I had analysis 1 out of 6 times..?
