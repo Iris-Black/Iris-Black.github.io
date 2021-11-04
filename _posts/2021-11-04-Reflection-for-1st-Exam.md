@@ -14,3 +14,5 @@ published: false
 For knowledge, I think I have landed somewhere between 7 and 8. Ms. Taylor may not.
 
 #### Criterion B
+
+- I have not much description, but a lot of interpretation. I also have some analysis, along with some good ideas.
