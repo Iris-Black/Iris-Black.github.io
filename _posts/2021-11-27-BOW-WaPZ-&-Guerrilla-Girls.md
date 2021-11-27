@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-## 27th of November, 2021
+### 27th of November, 2021
 
 ### Woman At Point Zero and Guerrilla Girls
 
