@@ -30,4 +30,7 @@ published: true
 - While woman at point zero conveys the issue of unequal standing in the workplace through the comparison made with prostitution, the Guerrilla Girls take a more direct approach and order the reader to stop the unequal practices.
 
 #### What is different about the solutions offered by the creators?
-- While Woman at Point Zero offers running away and leaving ( being a prostitute again, or ), 
+- While Woman at Point Zero offers running away and leaving ( being a prostitute again, or giving up), the Guerrilla Girls demand change in the industry by pressuring the authorities.
+
+#### What 'aha' moment did you have with this GI?
+- I would've never thought the disparities in certain industries would still be this large after the equality movements that have been happening in the last century. These bodies of work, especially Guerilla Girls, have made me realize equality shouldn't be taken for granted since a lot of people have been pushing for it for a while, as there is a reason they are still doing so. :)
