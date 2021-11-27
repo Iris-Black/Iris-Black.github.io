@@ -10,7 +10,7 @@ published: true
 
 #### WaPZ Stylistic Choice
 
--Irony
+- Irony
 > I came to realize that a female employee is more afraid of losing her job than a prostitute is of losing her life.
 
 
