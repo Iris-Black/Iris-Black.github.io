@@ -28,3 +28,6 @@ published: true
 
 #### Conveying the Issue Differently
 - While woman at point zero conveys the issue of unequal standing in the workplace through the comparison made with prostitution, the Guerrilla Girls take a more direct approach and order the reader to stop the unequal practices.
+
+#### What is different about the solutions offered by the creators?
+- 
