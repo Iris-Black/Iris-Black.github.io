@@ -24,7 +24,7 @@ published: true
 - Wording of the message - usage of "thou", "shalt", etc. and the points made
 
 #### Conveying the Issue Similarly
-- They convey this issue similarly in that they both 
+- They convey this issue similarly in that they both say there is a problem in the workplace about the objectification and abuse of women.  
 
 #### Conveying the Issue Differently
 - While woman at point zero conveys the issue of unequal standing in the workplace through the comparison made with prostitution, the Guerrilla Girls take a more direct approach and order the reader to stop the unequal practices.
