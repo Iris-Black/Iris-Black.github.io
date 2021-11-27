@@ -10,12 +10,10 @@ published: true
 
 #### WaPZ Stylistic Choice
 
-[![Guerrilla Girls ](https://images.squarespace-cdn.com/content/v1/55d4aaa8e4b084df273878ef/1565815876871-IDB703TOPX2RUF4L033M/2019_GuerrillaGirls_EthicsMonument1000at300dpi.jpg?format=750w)](https://www.guerrillagirls.com/projects)
-
-- Wording of the message - usage of "thou", "shalt", etc.
-
 
 
 #### Guerrilla Girls Stylistic Choice
 
+[![Guerrilla Girls ](https://images.squarespace-cdn.com/content/v1/55d4aaa8e4b084df273878ef/1565815876871-IDB703TOPX2RUF4L033M/2019_GuerrillaGirls_EthicsMonument1000at300dpi.jpg?format=750w)](https://www.guerrillagirls.com/projects)
 
+- Wording of the message - usage of "thou", "shalt", etc.
