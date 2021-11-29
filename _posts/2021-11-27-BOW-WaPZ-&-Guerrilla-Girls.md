@@ -11,6 +11,7 @@ published: true
 #### WaPZ Stylistic Choice
 
 - Irony, Juxtaposition, Comparison
+
 > "I came to realize that a female employee is more afraid of losing her job than a prostitute is of losing her life."
 
 > "For my meagre salary did not permit me to live anywhere else than in this house."
