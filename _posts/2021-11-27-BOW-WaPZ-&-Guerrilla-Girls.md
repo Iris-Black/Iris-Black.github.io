@@ -35,3 +35,6 @@ published: true
 
 #### What 'aha' moment did you have with this GI?
 - I would've never thought the disparities in certain industries would still be this large after the equality movements that have been happening in the last century. These bodies of work, especially Guerilla Girls, have made me realize equality shouldn't be taken for granted since a lot of people have been pushing for it for a while, as there is a reason they are still doing so. :)
+
+<iframe src="https://mars.nasa.gov/gltf_embed/25042" width="100%" height="450px" frameborder="0" />
+
