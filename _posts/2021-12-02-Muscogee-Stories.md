@@ -31,4 +31,8 @@ published: true
 
 - Because of this multi-dimensional aspect, this story encompasses all three categories. 
 
+- From this story, an understanding of the feeling of inferiorty given to the Native American people is understood. However, even more than that, this story hides a detail: that the white people are dirty, and their dirt has been passed on to the Natives. So, even if the story might seem all-white-supporting, there is this hidden meaning inside. 
+
+- Moreover, the last race to be counted aren't the Natives, they are black people. Having come as slaves to the Americas, they are seen even lower 
+
 
