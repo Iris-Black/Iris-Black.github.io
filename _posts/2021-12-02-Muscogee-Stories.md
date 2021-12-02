@@ -23,5 +23,8 @@ published: true
 
 - By stating the white could read and the natives couldn't, and saying the natives didn't know; they put themselves lower on an intellectual level. Why?
 
-- As the natives didn't even know the white and the black even existed before they came to the Americas, this myth must have been formed after the colonial invasions. Thus, it is a product of a culture formed by exterior means, by the Europeans. While it does not represent the native people of the old, it may represent the 
+- As the natives didn't even know the white and the black even existed before they came to the Americas, this myth must have been formed after the colonial invasions. Thus, it is a product of a culture formed by exterior means, by the Europeans. 
 
+- While it does not represent the native people of the old, it represents the culture of the Natives affected after the invasions. It may also have been manipulated by the European people, seeing its self-degrading nature. 
+
+- That is because cultural stories, by their nature, form the personalities of the children who listen to them. If it _was_ manipulated, it was to enforce the idea that white people are superior to Native Americans to next generations.
