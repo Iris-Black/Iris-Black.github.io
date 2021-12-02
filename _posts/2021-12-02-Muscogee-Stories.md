@@ -20,3 +20,8 @@ published: true
 - In "The Origin of Races", we see a sense of inferiority embedded in Native American culture.
 
 - By ranking humans as White People > Native Americans > Black People; they accept their defeat against the Europeans, while seeing black people as even lower, possibly to feel better.
+
+- By stating the white could read and the natives couldn't, and saying the natives didn't know; they put themselves lower on an intellectual level. Why?
+
+- As the natives didn't even know the white and the black even existed before they came to the Americas, this myth must have been formed after the colonial invasions. Thus, it is a product of a culture formed by exterior means, by the Europeans. While it does not represent the native people of the old, it may represent the 
+
