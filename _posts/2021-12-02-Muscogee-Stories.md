@@ -17,3 +17,6 @@ published: true
 
 #### Story focused: The Origin of Races, 2nd Edition
 
+- In "The Origin of Races", we see a sense of inferiority embedded in Native American culture.
+
+- By ranking humans as White People > Native Americans > Black People; they accept their defeat against the Europeans, while seeing black people as even lower, possibly to feel better.
