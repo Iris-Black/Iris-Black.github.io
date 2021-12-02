@@ -16,3 +16,4 @@ published: true
 	Texts reflect past cultural practices and culture, but they also form the culture of future generations and teach them the old culture. Meaning, stories aim to pass on knowledge, so they are created reflecting that time's culture. However, as those same stories will teach future generations what they have inside them, they also form parts of cultures. Not only that, they represent what a culture is to other communities.
 
 #### Story focused: The Origin of Races, 2nd Edition
+
