@@ -28,3 +28,7 @@ published: true
 - While it does not represent the native people of the old, it represents the culture of the Natives affected after the invasions. It may also have been manipulated by the European people, seeing its self-degrading nature. 
 
 - That is because cultural stories, by their nature, form the personalities of the children who listen to them. If it _was_ manipulated, it was to enforce the idea that white people are superior to Native Americans to next generations.
+
+- Because of this multi-dimensional aspect, this story encompasses all three categories. 
+
+
