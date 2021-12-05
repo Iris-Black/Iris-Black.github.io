@@ -9,3 +9,5 @@ How important is cultural or historical context to the production and reception 
 
 How does the meaning and impact of a text change over time? 
 
+The other day, I picked up a book, from our school's library, called "Physics experiments with PCs". It was an action without much thought; I saw "physics", I saw "PCs", and it was picked up. What I didn't give much consideration to was, however, the relevancy of the book. In the computer science space, in which everything is progressing so rapidly, a 10-year-old book is considered a historical relic.  
+
