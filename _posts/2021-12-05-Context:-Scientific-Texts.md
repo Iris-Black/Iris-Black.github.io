@@ -19,3 +19,5 @@ There are, however, different types of information contained in a book. As this 
 
 #### An answer to question 2:
 
+As this book includes full instructions for writing the code needed to perform the simulations with the PCs of the time period, it was released as a "follow-along" or "tutorial" book.
+
