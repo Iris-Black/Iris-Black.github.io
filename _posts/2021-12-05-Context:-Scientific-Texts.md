@@ -19,4 +19,4 @@ There are, however, different types of information contained in a book. As this 
 
 #### An answer to question 2:
 
-As this book includes full instructions for writing the code needed to perform the simulations with the PCs of the time period, it was released as a "follow-along" or "tutorial" book. However, as the  instructions for the experiment have become obsolete now, only the mathematical part remains. The book, which was a "follow-along" book before, has now become more of a "general guide" book. It does not hold your hand even if it used to, but shows you the general direction you need to go.
+As this book includes full instructions for writing the code needed to perform the simulations with the PCs of the time period, it was released as a "follow-along" or "tutorial" book. However, as the  instructions for the experiment have become obsolete now, only the mathematical part remains. The book, which was a "follow-along" book before, has now become more of a "general guide" book. It does not hold your hand even if it used to, but shows you the general direction you need to go. With time, the type of the book has shifted.
