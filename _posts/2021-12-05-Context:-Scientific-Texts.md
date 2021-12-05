@@ -3,13 +3,16 @@ published: false
 ---
 #### 5th of December, 2021
 
+![]({{site.baseurl}}/https://media.springernature.com/w306/springer-static/cover-hires/book/978-3-642-79462-9)
+
 ### Questions to explore
 
-How important is cultural or historical context to the production and reception of a text?
+1) How important is cultural or historical context to the production and reception of a text?
 
-How does the meaning and impact of a text change over time? 
+2) How does the meaning and impact of a text change over time? 
 
 The other day, I picked up a book, from our school's library, called "Physics experiments with PCs". It was an action without much thought; I saw "physics", I saw "PCs", and it was picked up. What I didn't give much consideration to was, however, the relevancy of the book. In the computer science space, in which everything is progressing so rapidly, a 10-year-old book is considered a historical relic. The book I found was from 1995, so it was practically a prehistoric rock.
 
+The book, which was a pioneer in its time, now uses programs archived in computer science museums. This relates to the 1st question in a natural way - the reception of this well-crafted book is poor today as science has progressed. 
 
-
+There are, however, different types of information contained in a book. 
