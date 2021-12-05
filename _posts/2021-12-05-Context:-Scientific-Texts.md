@@ -15,4 +15,4 @@ The other day, I picked up a book, from our school's library, called "Physics ex
 
 The book, which was a pioneer in its time, now uses programs archived in computer science museums. This relates to the 1st question in a natural way - the reception of this well-crafted book is poor today as science has progressed. 
 
-There are, however, different types of information contained in a book. 
+There are, however, different types of information contained in a book. As this book is not about computer science in general, but is also about physics; it includes mathematical formulas to model the real world. These formulas still hold true, 
