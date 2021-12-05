@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-#### 4th of December 2021
+#### 5th of December, 2021
 
 How important is cultural or historical context to the production and reception of a text?
 
