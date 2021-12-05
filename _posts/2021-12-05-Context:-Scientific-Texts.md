@@ -3,7 +3,7 @@ published: true
 ---
 #### 5th of December, 2021
 
-![]({{site.baseurl}}/https://media.springernature.com/w306/springer-static/cover-hires/book/978-3-642-79462-9)
+[![Cover of the Book](https://media.springernature.com/w306/springer-static/cover-hires/book/978-3-642-79462-9)](google.com)
 
 ### Questions to explore
 
