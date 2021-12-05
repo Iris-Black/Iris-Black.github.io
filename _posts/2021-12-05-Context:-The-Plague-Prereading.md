@@ -3,13 +3,14 @@ published: true
 ---
 #### 5th of December, 2021
 
+[![Cover of the Book](https://www.capstan.be/wp-content/uploads/2020/06/200608_Literary-translation_Industry_Linguistic-Curiosities.jpg)](google.com)
+### Questions to consider:
+
 1) How important is cultural or historical context to the production and reception of a text?
 
 2) How do we approach texts from different times and cultures to our own? 
 
 3) How does the meaning and impact of a text change over time? 
-
-4) In what ways is meaning discovered, constructed and expressed?
 
 Albert Camus's _The Plague_ was written in 1947, telling the story of a pandemic in a village/town. It's a pandemic that is passed on through rodents, similar to the Bubonic Plague. I've decided to read it in consideration of the current pandemic that's been happening around the world, COVID-19. 
 
@@ -17,4 +18,4 @@ In a way, Camus's _The Plague_ is more relevant today than when it was written(1
 
 In Camus's _The Plague_, many people take different routes and try different things after the quarantine starts; some smart, some not so smart. The book is also similar to today in that sense. When it was first in the hands of readers in 1947, people probably would have thought that nobody would act unreasonably, and everyone would be responsible. If you asked me in 2018, I probably would've thought the same. So in a sense, the book was _an exaggeration(3)_. However, it's more of a realistic model today, as it has proven true.
 
-Time and culture are separate things(2). Even  though there's around 70 years in between the writing of _The Plague_ and today, the culture contained inside the book is a mirror of our world today. Texts like these, ones that hold true in a cultural way even after years, are 
+Time and culture are separate things(2). Even  though there's around 70 years in between the writing of _The Plague_ and today, the culture contained inside the book is a mirror of our world today. Texts like these, ones that hold true in a cultural way even after years, are attractive to people; and most are considered _classics_.
