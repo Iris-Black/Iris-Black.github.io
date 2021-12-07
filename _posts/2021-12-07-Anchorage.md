@@ -3,7 +3,7 @@ published: false
 ---
 #### 7th of December, 2021
 
-### Global Issue - Racism in justice systems and those people being pushed into criminal lives
+### Global Issue - Minorities' lives being controlled and affected by the authorities, the majority
 
 > "...6th Avenue jail, of mostly Native and Black men,"
 
