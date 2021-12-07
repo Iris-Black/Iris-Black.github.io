@@ -11,5 +11,5 @@ published: false
 
 > "...where Henry told about being shot at eight times ar a liquor store in L.A. ... no bullet holes, man, and eight cartridges strewn on the sidewalk."
 
-- 
+- This part talks about why the people in the jail are in there. The narrator's friend, Henry, being shot at when in the 6th avenue, but not being _aimed_ at, indicates he was probably caught in a crossfire. This can be interpreted as internal conflict between 
 
