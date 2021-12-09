@@ -50,7 +50,9 @@ Same in B.
 Same in C.
 Went down in D. (1)
 
+I think I'm gonna cry.
+
 
 #### Things I did well
 
-- 
+- ...
