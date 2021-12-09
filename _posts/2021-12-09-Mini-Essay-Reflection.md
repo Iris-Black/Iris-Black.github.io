@@ -18,8 +18,12 @@ extended discussion
 Discussion after quotes often repeated the quotes verbatim or lacked focus on the
 contents of the quote
 Ideas were not always supported by the evidence, making ideas less convincing
+Topic sentences should connect to the overall thesis statement and provide an argument
+Too much overview in between points was provided (and therefore, making it difficult
+to follow)
 
 ### Criterion C
+Lots of students did not follow the prompt
 Responses for the most part provided an introduction that fully introduced the text, characters, and features to be discussed
 Too much overview in between points was provided (and therefore, making it difficult
 to follow)
