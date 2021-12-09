@@ -39,7 +39,16 @@ on using punctuation marks
 - I had too many ideas for an essay that wanted one specific aspect - lowered the focus of my thesis.
 - My quotes were too long - giving short, concise, focused and juicy quotes is more important for proving your thoughts.
 - One of my quotes was't very suited for proving my point - a word devalued it. Even though the explanation for it was given in my mind, I didn't give a reasoning as for why the usage of "his" by Firdaus actually means women (using the "he" pronoun for people in general). I knew it in my head, but if I wanted to use that I had to prove it, which would lengthten my paper. So, I could just exclude it and explain my point with the rest of the quote.
-- 
+- Identify features in the body.
+- Purpose needs more focus - very little attention to the prompt
+- No Close Analysis - Avoid overview and telling the basic meaning of the quote, and closely analyze the word choice
+- P2 is disconnected & its point is very similar to P1. Progress the points, not mirror them, add on top of the first P.
+- Word choice could be better & more _precise_ or _sophisticated_.
+
+Went down in A. (2)
+Same in B.
+Same in C.
+Went down in D. (1)
 
 
 #### Things I did well
