@@ -38,5 +38,4 @@ published: false
 in which nothing makes
                                        sense."
                                        
-- 
-
+- The pain that the grandma is in doesn't make sense, as she has tried to escape and escape but it all resulted in her misery.
