@@ -37,7 +37,7 @@ on using punctuation marks
 #### Things I could do better
 - I had too many ideas for an essay that wanted one specific aspect - lowered the focus of my thesis.
 - My quotes were too long - giving short, concise, focused and juicy quotes is more important for proving your thoughts.
-- One of my quotes was't very suited for proving my point - a word devalued it. Even though the explanation for it was given in my mind, I didn't give a reasoning as for why the usage of "his" by Firdaus actually means women (using the "he" pronoun for people in general). I knew it in my head, but if I wanted to use that I had to prove it, which would lengthten my paper. 
+- One of my quotes was't very suited for proving my point - a word devalued it. Even though the explanation for it was given in my mind, I didn't give a reasoning as for why the usage of "his" by Firdaus actually means women (using the "he" pronoun for people in general). I knew it in my head, but if I wanted to use that I had to prove it, which would lengthten my paper. So, I could just exclude it and explain my point with the rest of the quote.
 
 
 #### Things I did well
