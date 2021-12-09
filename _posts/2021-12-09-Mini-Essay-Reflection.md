@@ -11,14 +11,12 @@ students having too much time to complete the task
 Thesis statements attempted to answer the prompt
 
 ### Criterion B
-Most students are starting to understand
-how to limit extensive summary of the text
+Most students are starting to understand how to limit extensive summary of the text
 Quotes did not always provide substantial information, proving to be less than useful
 Selection of quotes and examples did not always offer an opportunity for analysis or
 extended discussion
 Discussion after quotes often repeated the quotes verbatim or lacked focus on the
 contents of the quote
-
 Ideas were not always supported by the evidence, making ideas less convincing
 
 ### Criterion C
