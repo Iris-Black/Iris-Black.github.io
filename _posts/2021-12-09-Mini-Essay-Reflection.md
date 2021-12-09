@@ -5,9 +5,6 @@ published: true
 
 ### Criterion A
 Lots of students did not follow the prompt
-Majority of the responses crammed lots of information into one PEEL paragraph, which
-often weaken arguments, and even caused a loss in focus - this can be attributed to
-students having too much time to complete the task
 Thesis statements attempted to answer the prompt
 
 ### Criterion B
@@ -29,6 +26,9 @@ Too much overview in between points was provided (and therefore, making it diffi
 to follow)
 Many responses used topic sentences
 Topic sentences should connect to the overall thesis statement and provide an argument
+Majority of the responses crammed lots of information into one PEEL paragraph, which
+often weaken arguments, and even caused a loss in focus - this can be attributed to
+students having too much time to complete the task
 
 ### Criterion D
 Run-on and fragmented sentences indicate students need to reread their work, and work
