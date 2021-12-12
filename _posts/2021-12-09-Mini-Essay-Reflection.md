@@ -63,3 +63,11 @@ Went down in D. (1)
 #### Things I did well
 
 - My links and some points were good.
+
+#### Photos 
+
+<a href="https://ibb.co/WWqFf4k"><img src="https://i.ibb.co/TBpRtx4/Whats-App-Image-2021-12-12-at-23-54-00.jpg" alt="Whats-App-Image-2021-12-12-at-23-54-00" border="0" /></a>
+
+<a href="https://ibb.co/54k4Mzp"><img src="https://i.ibb.co/dMtMW3C/Whats-App-Image-2021-12-12-at-23-54-00-1.jpg" alt="Whats-App-Image-2021-12-12-at-23-54-00-1" border="0" /></a>
+
+<a href="https://ibb.co/SxqFTdm"><img src="https://i.ibb.co/cvz45C8/Whats-App-Image-2021-12-12-at-23-54-00-2.jpg" alt="Whats-App-Image-2021-12-12-at-23-54-00-2" border="0" /></a>
