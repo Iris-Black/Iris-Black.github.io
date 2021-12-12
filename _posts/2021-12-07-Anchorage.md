@@ -28,9 +28,9 @@ published: true
 #### Imagery
 >"...blood and piss,"
 
-- Piss has been used as an indicator for extreme poverty for centuries. There is even the saying "piss-poor". So if the grandmother was only covered in piss, we would be able to say she was extremely poor and dirty. 
+- Piss has been used as an indicator for extreme poverty for centuries. There is even the saying "piss-poor". So if the grandmother was only covered in piss, that indicates she is poor and dirty. Mind that this depiction is from the narrator, and we do not know whether the grandma is really in that bad of a shape. However, considering the assumed Native origin of the narrator, it seems logical to assume they are speaking the truth.
 
-- However, she is also smelling of blood, which indicates struggle and/or work. This means she has tried to escape from her situation, however, she has ended up with, as a result of her struggle, blood and piss; along with having to sleep on a bench.
+- However, she is also smelling of blood, which indicates struggle and/or work. This means she has tried to escape from her situation, however, she has ended up with, as a result of her struggle, blood and piss; along with having to sleep on a bench. Considering she isn't in jail, she probably has tried a peaceful way of resisting, which has resulted in this. And since they actually give food and have showers in jail, it can be concluded that the peaceful protestor ends up in a worse state.
 
 #### Structure
 
