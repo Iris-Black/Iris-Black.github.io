@@ -20,3 +20,7 @@ There are, however, different types of information contained in a book. As this 
 #### An answer to question 2:
 
 As this book includes full instructions for writing the code needed to perform the simulations with the PCs of the time period, it was released as a "follow-along" or "tutorial" book. However, as the  instructions for the experiment have become obsolete now, only the mathematical part remains. The book, which was a "follow-along" book before, has now become more of a "general guide" book. It does not hold your hand even if it used to, but shows you the general direction you need to go. With time, the type of the book has shifted.
+
+#### Connection to Class - Same for both entries
+
+	A similar thing can be seen in our class with what we did before reading Joy Harjo's poems. for one week, we were researching Native American history as without that knowledge, we would've interpreted Harjo's poems more based on our culture, rather than her's; which can have impacts on meaning. By learning about their past and culture, lines that would seem insignificant or more shallow gained new meanings. One prime example of this for me was learning about The First Thanksgiving, and how the Europeans stole food from the Native American reserves. Harjo references this in several of her poems. If I read those lines without knowledge of what happened, they would seem as a general comment on how the Europeans took the livelyhood of Native Americans. With the context, the allusion to The First Thanksgiving is visible.
