@@ -38,4 +38,4 @@ published: true
 in which nothing makes
                                        sense."
                                        
-- The pain that the grandma is in doesn't make sense, as she has tried to escape and escape but it all resulted in her misery.
+- The pain that the grandma is in doesn't make sense, as she has tried to escape and escape but it all resulted in her misery. The placing of the word here also creates an echoey sound in the reader's mind, as single speakers in empty rooms create echoes, which amplifies the lone aspect of the grandmother's dream.
