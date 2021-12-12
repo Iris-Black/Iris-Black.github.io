@@ -62,4 +62,4 @@ Went down in D. (1)
 
 #### Things I did well
 
-- ...
+- My links and some points were good.
