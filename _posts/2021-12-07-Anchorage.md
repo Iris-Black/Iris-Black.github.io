@@ -23,12 +23,12 @@ published: true
 
 > "...and know it is all happening."
 
-- Detail: This is all happening when the narrator knows about all of it, which contributes to the severity: people are aware of the issue but do not act upon it, even when the ones that are in that situation are their kind.
+- Detail: This is all happening when the narrator knows about all of it, which contributes to the severity: people are aware of the issue but do not act upon it, even when the ones that are in that situation are of their kind. The main irony here is that the narrator mentions accepting and carrying the story of the grandmother, while not taking any action to help her. This might be an indication of the hipocrisy of some Native Americans, or perhaps, the unable state of the Natives that are in good shape to help others who are having hard times, because of society's or the government's prsesure.
 
 #### Imagery
 >"...blood and piss,"
 
-- Piss has been used as an indicator for extreme poverty for a lot of time. There is even the saying "piss-poor". So if the grandmother was only covered in piss, we would be able to say she was extremely poor and dirty. 
+- Piss has been used as an indicator for extreme poverty for centuries. There is even the saying "piss-poor". So if the grandmother was only covered in piss, we would be able to say she was extremely poor and dirty. 
 
 - However, she is also smelling of blood, which indicates struggle and/or work. This means she has tried to escape from her situation, however, she has ended up with, as a result of her struggle, blood and piss; along with having to sleep on a bench.
 
