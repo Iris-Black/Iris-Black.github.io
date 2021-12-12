@@ -19,7 +19,7 @@ published: true
 
 > "On a park bench we see someone's Athabascan grandmother, folded up, smelling like 200 years of blood and piss, her eyes closed against some unimagined darkness, where she is buried in an ache in which nothing makes sense."
 
-- The Athabascan grandmother, who is not a criminal, is "smelling like 200 years of blood and piss". This long-going discrimination is acting on not only the people who rebel, but also who do not.
+- The Athabascan grandmother, who is not a criminal, is "smelling like 200 years of blood and piss". This long-going discrimination is acting on not only the people who rebel, but also who do not. There is also the specific mention of Athabascan instead of saying Native, indicating again the location of North America. However, this might also be a bias of my European - Old World point of view, as I do now know whether they call themselves "Natives".
 
 > "...and know it is all happening."
 
