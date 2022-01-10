@@ -28,4 +28,4 @@ This is a cartoon about the COVID-19 virus and its effects on society.
     
 ### In the fourth panel
 - Word Choice
-	- Labelling the speaker as "person in charge" --> Deindividualizes them
+	- Labelling the speaker as "person in charge" --> 
