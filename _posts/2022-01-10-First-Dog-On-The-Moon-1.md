@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-### 10th of January, 2022
+#### 10th of January, 2022
 
 ## Body of Work
 
@@ -32,4 +32,4 @@ This is a cartoon about the COVID-19 virus and its effects on society.
     
 ### In the fourth panel
 - Word Choice
-	- Labelling the speaker as "person in charge" --> 
+	- Labelling the speaker as "person in charge" -->
