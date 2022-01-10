@@ -22,4 +22,6 @@ This is a cartoon about the COVID-19 virus and its effects on society.
 ### In the third panel:
 - Statistics
 	- The third panel gives information about the issue to help support their point
-    - However, the names of the bars in the statistic shown beside the speech bubble indicate irony - They are named as "Franking Credit Valley" and "Robodebt Gardens" -> 
+    - However, the names of the bars in the statistic shown beside the speech bubble indicate irony - They are named as "Franking Credit Valley" and "Robodebt Gardens" --> Thus indicating this is not a real statistic graph, but one put here for impact --> Which does not subtract from its meaning, but makes this cartoon a bit more biased.
+- Rhetorical Question
+	- The answer to the question "Whose fault is that?" is given in the header / headline of the cartoon already - 
