@@ -38,3 +38,4 @@ This is a cartoon about the COVID-19 virus and its effects on society.
 - Drawing style
 	- The half-closed lids imply a sleepy and "braindead" state --> Which shows the authorities's unthinking state about this matter
     - This contrasts with the "!" in the speech bubble - shows politicians try make it seem like they care even when they don't. --> But anyone who observes carefully can tell they don't actually care.
+    
