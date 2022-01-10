@@ -42,4 +42,5 @@ This is a cartoon about the COVID-19 virus and its effects on society.
 ### In the fifth panel
 - Irony 
 	- "Covid is very good at being a virus" 
+    - As Covid is a virus, this is an ironic statement and states what is already known 
     
