@@ -9,6 +9,8 @@ published: true
 
 This is a cartoon about the COVID-19 virus and its effects on society.
 
+- 
+
 ### In the first panel:
 - Word choice
 	- Descriptions like "wild-eyed", "selfish toff" and "morally bankrupt" make the reader expect all is going to be declared guilty, as these are all negative connotations.
@@ -32,4 +34,7 @@ This is a cartoon about the COVID-19 virus and its effects on society.
     
 ### In the fourth panel
 - Word Choice
-	- Labelling the speaker as "person in charge" -->
+	- Labelling the speaker as "person in charge" --> subtracts this from the person and links it to the position - "person in charge". This makes it so the statement of the author is directed towards governments or people in charge in general, not just a specific politician.
+- Drawing style
+	- The half-closed lids imply a sleepy and "braindead" state --> Which shows the authorities's unthinking state about this matter
+    - This contrasts with the "!" in the speech bubble - shows politicians try make it seem like they care even when they don't. --> But anyone who observes carefully can tell they don't actually care.
