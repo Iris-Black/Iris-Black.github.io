@@ -1,6 +1,10 @@
 ---
 published: true
 ---
+### 10th of January, 2022
+
+## Body of Work
+
 ![First Dog On The Moon Caricature](https://firstdogonthemoon.com.au/wp-content/uploads/2021/10/TheMoralOfTheCovidStory-800x1304.jpg)
 
 This is a cartoon about the COVID-19 virus and its effects on society.
