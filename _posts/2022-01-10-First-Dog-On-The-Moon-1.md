@@ -7,9 +7,7 @@ published: true
 
 ![First Dog On The Moon Caricature](https://firstdogonthemoon.com.au/wp-content/uploads/2021/10/TheMoralOfTheCovidStory-800x1304.jpg)
 
-This is a cartoon about the COVID-19 virus and its effects on society.
-
-- 
+This is a cartoon about the COVID-19 virus and its effects on society. 
 
 ### In the first panel:
 - Word choice
@@ -42,4 +40,12 @@ This is a cartoon about the COVID-19 virus and its effects on society.
 ### In the fifth panel
 - Irony 
 	- "Covid is very good at being a virus" 
-    - As Covid is a virus, this is an ironic statement as it states what is already known about Covid - also says "clearly", which 
+    - As Covid is a virus, this is an ironic statement as it states what is already known about Covid - also says "clearly", which emphasizes one of the main themes of the cartoonist - we see what is in front of us - it is painfully obvious, yet we do not react on it.
+- Premier(?)
+
+### In the sixth panel
+- Not much to analyze here.
+
+### Below the panels
+- A punchline 
+	- Leaves a big effect on the reader with the bold statement that people are bad even without covid - makes them inquire further about the author's comics
