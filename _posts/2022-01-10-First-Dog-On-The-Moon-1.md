@@ -9,6 +9,9 @@ published: true
 
 This is a cartoon about the COVID-19 virus and its effects on society. 
 
+- Word Choice
+	- "prissy tut-tutting and finger waggling" --> Shows how the comments of these people are insignificant and worthless
+
 ### In the first panel:
 - Word choice
 	- Descriptions like "wild-eyed", "selfish toff" and "morally bankrupt" make the reader expect all is going to be declared guilty, as these are all negative connotations.
