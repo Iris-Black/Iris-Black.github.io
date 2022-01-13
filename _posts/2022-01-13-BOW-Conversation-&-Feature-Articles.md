@@ -41,4 +41,8 @@ Because of the past colonialist activity in the Carribean region and the actions
 people, crowed the Puritan leaders in their Sunday
 sermons.
 
+- Word Choice
+	- "Crowed"
+    - "their"
+
 
