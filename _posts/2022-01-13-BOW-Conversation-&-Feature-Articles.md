@@ -31,3 +31,10 @@ Because of the past colonialist activity in the Carribean region and the actions
 ### Global Issue(s)
 1. Effects of colonialism halting the development of Post-colony countries
 2. Women's societal roles in undereducated and poor countries
+
+### Joy Harjo:
+
+#### Poem: In Mystic:
+Over six hundred were killed, to establish a home for God’s
+people, crowed the Puritan leaders in their Sunday
+sermons.
