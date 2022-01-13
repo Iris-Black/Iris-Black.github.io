@@ -21,7 +21,8 @@ It was created to inform people in more countries that are better off, to point 
 Because of the past colonialist activity in the Carribean region and the actions undertaken to halt the development of said islands, the effects of natural disasters that would've already hit there are amplified, making it harder for the people there to recover.
     
 #### Feature 1
-	
+
+- Use of images 
 
 #### Feature 2
 
