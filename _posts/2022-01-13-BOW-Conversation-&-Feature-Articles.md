@@ -23,6 +23,8 @@ Because of the past colonialist activity in the Carribean region and the actions
 #### Feature 1
 
 - Use of images 
+	- Induces empathy
+    ![](https://images.theconversation.com/files/186841/original/file-20170920-16445-11lhmre.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=600&h=400&fit=crop&dpr=1)
 
 #### Feature 2
 
