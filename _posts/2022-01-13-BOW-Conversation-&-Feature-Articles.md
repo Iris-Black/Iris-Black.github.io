@@ -13,6 +13,7 @@ Content- What is the article about?
 
 Purpose- Why was it created?
 
+
 	It was created to inform people in more countries that are better off, to point attention to the issues and raise help.
 
 Message- What is being communicated?
