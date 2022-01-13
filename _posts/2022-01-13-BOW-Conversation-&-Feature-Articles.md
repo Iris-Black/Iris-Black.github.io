@@ -35,6 +35,8 @@ Because of the past colonialist activity in the Carribean region and the actions
 ### Joy Harjo:
 
 #### Poem: In Mystic:
-Over six hundred were killed, to establish a home for God’s
+> Over six hundred were killed, to establish a home for God’s
 people, crowed the Puritan leaders in their Sunday
 sermons.
+
+
