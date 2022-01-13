@@ -3,7 +3,7 @@ published: true
 ---
 #### 13th of January, 2022
 
-[!](https://images.theconversation.com/files/186488/original/file-20170918-30571-o9av6o.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=600&h=482&fit=crop&dpr=1)
+[!][](https://images.theconversation.com/files/186488/original/file-20170918-30571-o9av6o.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=600&h=482&fit=crop&dpr=1)
 
 ### Comprehension & Interpretation: 
 
