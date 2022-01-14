@@ -44,5 +44,3 @@ sermons.
 - Word Choice
 	- "Crowed"
     - "their"
-
-
