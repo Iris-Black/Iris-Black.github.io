@@ -31,6 +31,9 @@ Because of the past colonialist activity in the Carribean region and the actions
 #### Feature 2
 
 - Word choice
+> "...with little left over for greeting Irma and Maria..."
+	- As the hurricanes are named after names of people, the word "greeting" creates harmony 
+	- "greeting" --> use of said word implies the coming of said hurricanes is something to be celebrated or is something positive, which creates irony.
 
 #### Feature 3
 
