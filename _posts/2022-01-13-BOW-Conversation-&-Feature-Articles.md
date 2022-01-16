@@ -25,10 +25,16 @@ Because of the past colonialist activity in the Carribean region and the actions
 - Use of images 
 	- Induces empathy
     ![](https://images.theconversation.com/files/186841/original/file-20170920-16445-11lhmre.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=600&h=400&fit=crop&dpr=1)
+    - Gives details that words may fail to give - makes those details more impactful
+    	- Details such as the state of the environment and the belongings of said people, and their fear from understood from their poses.
 
 #### Feature 2
 
+- Word choice
+
 #### Feature 3
+
+
 
 ### Global Issue(s)
 1. Effects of colonialism halting the development of Post-colony countries
