@@ -61,6 +61,6 @@ sermons.
     	- These words separate the colonialists from the natives, as a result of their actions.
         
 #### What is the difference between the two author’s commentary on the issue? 
-While the authors of the article focus on proving their point with facts and 
+While the authors of the article focus on proving their point with facts and data, Joy Harjo tries to affect and talk to the emotions of the reader for said issue.
 
-While the authors of the article talk about the results of acts of colonialism in order to fix the problems that arise from it today, Joy Harjo talks about and focuses on the moments it was happening (in this poem) to pass on the emotions felt by the Native Americans to the readers; in order to, again, push the readers into action. 
+Moreover, while the authors of the article talk about the results of acts of colonialism in order to fix the problems that arise from it today, Joy Harjo talks about and focuses on the moments it was happening (in this poem) to pass on the emotions felt by the Native Americans to the readers; in order to, again, push the readers into action to solve problems that were commented. 
