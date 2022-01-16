@@ -67,3 +67,6 @@ Moreover, while the authors of the article talk about the results of acts of col
 
 #### What is the main similarity in their commentary? 
 In the end, both authors are from a timeframe in which several hundred years have passed since the first actions, but the effects are still felt to that day. This makes both of their main objectives to help the current victims of said actions in some way - which is pushing their readers into helping actively or protesting.
+
+#### What effect does the article have on the reader? What is the reader’s response? Do you think this is what the writer intended?
+The article leaves the reader feeling apathetic and responsible - even though they weren't the ones who did said colonialist actions directly, as they are probably living in a nation that is relatively better the language of the article and contents push the readers into feeling responsible. The responses can range from momentary shame then normalness to perhaps donating to said countries or campaigning for them. The latter results are probably what the author has intended to do, considering the nature of the article. 
