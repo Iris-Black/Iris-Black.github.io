@@ -39,6 +39,7 @@ Because of the past colonialist activity in the Carribean region and the actions
 
 - Radical claims and contextual information 
 	- The claims being made about natural disasters hitting harder because of inequality and colonialism don't make sense - surely one is separate from the other, right? The article says not exactly, and it proves that by providing information of said inequalities and making connections between them and the disasters.
+    
     	- For example, women are more psychologically impacted than men and women in other countries because of the societal roles imposed on them in said communities.
         - Another example is harder recovery due to the state colonial practices have left the Carribean countries in.
 
