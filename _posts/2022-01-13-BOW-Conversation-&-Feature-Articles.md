@@ -64,3 +64,6 @@ sermons.
 While the authors of the article focus on proving their point with facts and data, Joy Harjo tries to affect and talk to the emotions of the reader for said issue.
 
 Moreover, while the authors of the article talk about the results of acts of colonialism in order to fix the problems that arise from it today, Joy Harjo talks about and focuses on the moments it was happening (in this poem) to pass on the emotions felt by the Native Americans to the readers; in order to, again, push the readers into action to solve problems that were commented. 
+
+#### What is the main similarity in their commentary? 
+In the end, both authors are from a timeframe in which several hundred years have passed since the first actions, but the effects are still felt to that day. This makes both of their main objectives to help the current victims of said actions in some way - which is pushing their readers into helping actively or protesting.
